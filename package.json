@@ -1,0 +1,20 @@
+{
+  "name": "remarkable-zapier",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "remarkable-typescript": "^1.1.2",
+    "uuid": "^8.3.2",
+    "zapier-platform-core": "10.2.0"
+  },
+  "devDependencies": {
+    "getmac": "^5.17.0",
+    "jest": "^26.6.3"
+  },
+  "private": true
+}
