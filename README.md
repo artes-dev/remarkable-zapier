@@ -13,7 +13,7 @@ With this integration you can create a simple Google Drive backup zap, automatic
 ``Upload File (supports pdf, epub or Remarkable-format zip file)``
 
 ### Installation
-Currently in Invite-only mode. Invite link available [here]()
+Currently in Invite-only mode. Invite link available [here](https://zapier.com/developer/public-invite/130363/00f9c220c5a650c7e0d88f140be3e33e/)
 
 ### Build from source
 ```bash

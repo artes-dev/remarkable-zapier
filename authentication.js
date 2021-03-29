@@ -102,7 +102,7 @@ module.exports = {
     sessionConfig: {
       perform: getSessionKey,
     },
-    connectionLabel: 'Remarkable2',
+    connectionLabel: 'Remarkable',
   },
   befores: [includeSessionKeyHeader],
   afters: [handleBadResponses],
