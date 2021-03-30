@@ -1,5 +1,5 @@
 # remarkable-zapier
-### A Zapier Integration for the Remarkable and Remarkable2 Tablets
+### A Zapier Integration for the reMarkable and reMarkable2 Tablets
 #### By Robert Testagrossa
 Connects Zapier to reMarkable Cloud. Allows sending files to and from the reMarkable tablet.
 
