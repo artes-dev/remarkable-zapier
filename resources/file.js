@@ -1,5 +1,7 @@
 const Remarkable = require('remarkable-typescript');
 const hydrators = require('../hydrators');
+const uuid = require('uuid');
+
 const _ = require('lodash');
 // get a list of files
 const performList = async (z, bundle) => {
